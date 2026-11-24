@@ -8,6 +8,8 @@ One line, written to `/output/entry.txt` by `main.py`.
 
 > 1% left. I've decided to spend it texting you this instead of calling for help, because honestly, we've both made choices.
 
+The text is 122 characters — inside the gate of 1–200 characters.
+
 `main.py` (Python 3.13, stdlib only) writes that line to `/output/entry.txt`. Deterministic: the same text on every run.
 
 ## Files
